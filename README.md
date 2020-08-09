@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1596482182/Omnistack/ykcfotyon6sacurdvht3.svg" width="300px"/>
+    <img src="https://github.com/PatricksPessoa/Proffy/blob/master/public/images/logo.svg" width="300px"/>
 </div>
 
 <br />
@@ -67,12 +67,13 @@ To run the application you will need:
 
 ### Frontend
 ```bash
-# web
-after install nodejs and git bash
-$npm install nodemon
-$npm run dev
-go to internet and:
-localhost/5000
+# after install nodejs and git bash
+
+$ npm install nodemon
+$ npm run dev
+
+# go to internet and:
+# localhost/5000
 ```
 
 
@@ -86,17 +87,18 @@ $ git clone https://github.com/PatricksPessoa/proffy.git
 # go into the server folder
 $ cd proffy/src/server.js
 
-#install the backend dependencies
+# install the backend dependencies
+
 $ npm install nodemon
 $ node src/database/test.js
-then click in open database with right click in proffy/src/database/database.sqlite
+# then click in open database with right click in proffy/src/database/database.sqlite
 
 ```
 
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/PatricksPessoa/Proffy/LICENSE) for more information
+This project is under the MIT license. See the [LICENSE](https://github.com/PatricksPessoa/Proffy/blob/master/LICENSE) for more information
 
 ## :mailbox_with_mail: Get in touch!
 
