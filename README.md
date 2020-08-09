@@ -65,6 +65,16 @@ To run the application you will need:
 * [Git](https://git-scm.com)
 * [Node](https://nodejs.org/)
 
+### Frontend
+```bash
+# web
+after install nodejs and git bash
+$npm install nodemon
+$npm run dev
+go to internet and:
+localhost/5000
+```
+
 
 ### Backend
 
@@ -77,7 +87,9 @@ $ git clone https://github.com/PatricksPessoa/proffy.git
 $ cd proffy/src/server.js
 
 #install the backend dependencies
-$ npm install nordemon
+$ npm install nodemon
+$ node src/database/test.js
+then click in open database with right click in proffy/src/database/database.sqlite
 
 ```
 
