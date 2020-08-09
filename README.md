@@ -33,7 +33,7 @@
  Proffy is an application that aims helping to bring together people who need help in some subject with those who like to teach.
 
  <p align="center">
-  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1596876802/Omnistack/b0urvevadbrrf8kgiptx.gif" >
+  <img src="https://github.com/PatricksPessoa/Proffy/blob/master/public/images/proffy.jpg" >
 </p>
 
  ## :rocket: Built with
