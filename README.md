@@ -52,7 +52,6 @@ This project was developed with the following technologies:
 <details>
   <summary>Web</summary>
 
--   [Typescript](https://www.typescriptlang.org/)
 -   [VS Code](https://code.visualstudio.com/)
 
 </details>
