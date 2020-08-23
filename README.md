@@ -26,8 +26,6 @@
 </p>
 
 
-  <h2 align="center">🚧 Under Construction 🚧</h2>
-
 ## :computer: Project 
 
  Proffy is an application that aims helping to bring together people who need help in some subject with those who like to teach.
